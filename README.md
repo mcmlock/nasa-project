@@ -1,0 +1,1 @@
+This project is a clone project I created when following along with a Udemy Node.js course.
